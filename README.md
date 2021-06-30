@@ -1,5 +1,5 @@
 # Nth-Root-Finder
-Finds the Nth Root of a number using BINARY SEARCH
+Finds the Nth Root of a number using "binary search"
 
 Binary search, also known as half-interval search,logarithmic search or binary chop is a search algorithm that finds the position of a target value within a sorted array.
 
@@ -16,3 +16,4 @@ where -
   "x" is the number for which finding Nth root.
   
   THANK YOU
+      
